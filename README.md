@@ -11,7 +11,7 @@ UC3. Como administrador, eu quero visualizar uma lista ou mapa dos locais dispon
 
 UC4. Como administrador, eu quero registrar os resultados de uma competição (1º, 2º e 3º lugares), para que o quadro de medalhas seja atualizado automaticamente.
 
-UC5. Como comitê olímpico, eu quero visualizar um relatório de medalhas por país, para que seja possível acompanhar o desempenho das delegações.
+UC5. Como administrador, eu quero visualizar um relatório de medalhas por país, para que seja possível acompanhar o desempenho das delegações.
 
 UC6. Como atleta, eu quero filtrar competições por data, para que eu possa planejar minha agenda durante os jogos.
 
