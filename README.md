@@ -1,7 +1,7 @@
 # sistema-gestao-olimpiadas
 Trabalho Projeto de Poftware
 
-# HISTÓRIAS DE USUARIO
+## HISTÓRIAS DE USUARIO
 
 UC1. Como administrador do sistema, eu quero cadastrar novas competições no sistema, para que os atletas possam se inscrever e os locais sejam alocados corretamente.
 
@@ -22,3 +22,25 @@ UC8. Como administrador da delegação, eu quero editar informações dos atleta
 UC9. Como atleta, eu quero cancelar minha inscrição em uma competição, para que eu não participe de provas indesejadas.
 
 UC10. Como atleta, eu quero ver o meu histórico de medalhas, para que eu possa acompanhar meu desempenho ao longo das Olimpíadas
+
+
+## DIAGRAMAS PREVIEW
+
+
+### Diagrama de classes
+<img width="500px" height="500px" src="https://github.com/leticiaafigueiredo/sistema-gestao-olimpiadas/tree/main/imagens/diagrama_classes.png"/>
+
+### Casos de usuário
+<img width="500px" height="500px" src="https://github.com/leticiaafigueiredo/sistema-gestao-olimpiadas/tree/main/imagens/diagrama_classes.png"/>
+
+### Diagrama de implantação
+<img width="500px" height="500px" src="https://github.com/leticiaafigueiredo/sistema-gestao-olimpiadas/tree/main/imagens/implantacao.png"/>
+
+### Diagrama de componentes
+<img width="500px" height="500px" src="https://github.com/leticiaafigueiredo/sistema-gestao-olimpiadas/tree/main/imagens/componentes.png"/>
+
+### Diagrama de pacotes
+<img width="500px" height="500px" src="https://github.com/leticiaafigueiredo/sistema-gestao-olimpiadas/tree/main/imagens/pacotes.png"/>
+
+### Diagrama de componentes
+<img width="500px" height="500px" src="https://github.com/leticiaafigueiredo/sistema-gestao-olimpiadas/tree/main/imagens/componentes.png"/>
